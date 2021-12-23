@@ -1,0 +1,11 @@
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\bin\Debug\net6.0\ADO.Library.deps.json
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\bin\Debug\net6.0\ADO.Library.dll
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\bin\Debug\net6.0\ref\ADO.Library.dll
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\bin\Debug\net6.0\ADO.Library.pdb
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.AssemblyInfoInputs.cache
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.AssemblyInfo.cs
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.csproj.CoreCompileInputs.cache
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.dll
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ref\ADO.Library.dll
+C:\Users\maria.de.stefano\Desktop\Academy\Week6_ADONet\EsrcitazioneFinaleADOWeek6\ADO.Library\obj\Debug\net6.0\ADO.Library.pdb

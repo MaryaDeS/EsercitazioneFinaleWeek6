@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOConnectedGestioneSpese.EsercitazioneFinale", "ADOConnectedGestioneSpese.EsercitazioneFinale.csproj", "{A48883CD-186F-4051-92BA-8862A76B87DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.Library", "..\ADO.Library\ADO.Library.csproj", "{DFCF4368-EA9A-48DF-9BB6-9F48E209EFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48883CD-186F-4051-92BA-8862A76B87DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48883CD-186F-4051-92BA-8862A76B87DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48883CD-186F-4051-92BA-8862A76B87DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48883CD-186F-4051-92BA-8862A76B87DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCF4368-EA9A-48DF-9BB6-9F48E209EFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCF4368-EA9A-48DF-9BB6-9F48E209EFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCF4368-EA9A-48DF-9BB6-9F48E209EFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCF4368-EA9A-48DF-9BB6-9F48E209EFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D50444-E48A-449E-B008-28670A0A20C8}
+	EndGlobalSection
+EndGlobal
